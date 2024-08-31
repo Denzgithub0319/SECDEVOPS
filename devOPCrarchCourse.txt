@@ -11,7 +11,7 @@ enableLinuxdockersinCSR1000v
 !!
 config t
 iox
-interface GigabitEthernet1
+interface GigabitEthernet2
 ip address dhcp
 ip nat outside
 no shut
